@@ -4,8 +4,6 @@ A from-scratch implementation (pure NumPy, no compression library) of a JPEG-sty
 
 Academic group project (4 students), MAM3 — Polytech Nice Sophia, Applied Mathematics and Modeling engineering program.
 
-![Compression demo](assets/demo_compression.png)
-
 ## How it works
 
 1. **Split** the image into 8x8 pixel blocks, per color channel (R, G, B).
