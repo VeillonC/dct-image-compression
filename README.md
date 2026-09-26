@@ -52,10 +52,6 @@ python compare_quantization.py
 
 To test another image, edit the `image_path` variable at the top of the `if __name__ == "__main__":` block of each script (sample images are provided in `images/`).
 
-## Results
-
-On the `waves.png` image (shown above): a compression rate of 96 to 98% is reached while preserving good visual quality. The full report (`docs/report.pdf`) covers results on more images, including a noisy one, with the associated error rates.
-
 ## Authors
 
 Group project by Matthieu Keruzoret, Petru Piculescu, Camille Veillon and Zineb Ziad.
